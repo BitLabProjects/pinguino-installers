@@ -8,7 +8,8 @@
     
     <default    
         revision="master"
-        remote="github" />
+        remote="github" 
+        clone-depth="1" />
     
     <project
         path="ide" 
