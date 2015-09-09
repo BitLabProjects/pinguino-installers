@@ -11,27 +11,27 @@
         remote="github" />
     
     <project
-        path="." 
+        path="ide" 
         name="PinguinoIDE/pinguino-ide" />
     
     <project 
-        path="." 
+        path="libraries" 
         name="PinguinoIDE/pinguino-libraries" />
     
     <project 
-        path="." 
+        path="extra" 
         name="PinguinoIDE/pinguino-extra" />
         
     <project 
-        path="." 
+        path="bootloaders" 
         name="PinguinoIDE/pinguino-bootloaders" />
 
     <project 
-        path="." 
+        path="multilanguage" 
         name="PinguinoIDE/pinguino-multilanguage" />
     
     <project 
-        path="." 
+        path="compilers" 
         name="PinguinoIDE/pinguino-compilers" />
     
 </manifest>
